@@ -6,3 +6,4 @@ A full-stack web application designed to streamline hiring workflows by enabling
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JWT
+  
